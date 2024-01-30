@@ -11,11 +11,28 @@
             "id": "372f33b8c8a8c071",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Math Lectures/Semester 1 (not complete)/Math lectures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e3773774829b3d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math Lectures/Semester 1 (not complete)/ФНП.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc4916694ff3196f",
@@ -95,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Math Lectures/Semester 1 (not complete)/ФНП.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Math Lectures/Semester 1 (not complete)/ФНП.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Math Lectures/Semester 1 (not complete)/ФНП.md"
               }
             }
           }
@@ -154,8 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f4376ee045b24f0",
+  "active": "7e3773774829b3d4",
   "lastOpenFiles": [
+    "Math Lectures/Semester 1 (not complete)/Math lectures.md",
+    "Math Lectures/Semester 1 (not complete)/ФНП.md",
     "Welcome.md"
   ]
 }
