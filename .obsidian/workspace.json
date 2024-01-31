@@ -33,20 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "cc4916694ff3196f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "23c7ef305188d76b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -175,8 +161,12 @@
   },
   "active": "7e3773774829b3d4",
   "lastOpenFiles": [
-    "Math Lectures/Semester 1 (not complete)/Math lectures.md",
+    "Math Lectures/Semester 2/Интегральные исчисления.md",
+    "Math Lectures/Интегральные исчисления.md",
+    "Интегральные исчисления.md",
     "Math Lectures/Semester 1 (not complete)/ФНП.md",
+    "Math Lectures/Semester 2",
+    "Math Lectures/Semester 1 (not complete)/Math lectures.md",
     "Welcome.md"
   ]
 }
